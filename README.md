@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/varunika2222-cyber/varunika2222-cyber/main/Neon%20Cyber%20Portfolio%20Banner.png" width="100%" alt="Varunika Sri Portfolio Banner">
 </p>
+
 # Hey, I'm Varunika Sri! 👋
 
 ### Computer Science Undergraduate | IIIT Kottayam
