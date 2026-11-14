@@ -58,6 +58,12 @@ Currently exploring the intersection of **Artificial Intelligence, Machine Learn
 
 ---
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=varunika2222-cyber&theme=tokyonight" width="80%" />
+</p>
+
 ### 🤝 Connect With Me
 
 - LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
